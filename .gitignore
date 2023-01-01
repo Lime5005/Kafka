@@ -1,0 +1,11 @@
+target
+kafka-demo-java/target
+kafka-demo-java/*.iml
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+!**/src/main/**/target/
+!**/src/test/**/target/
